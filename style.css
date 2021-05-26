@@ -1,0 +1,47 @@
+img {
+    widows: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#welcome {
+    margin: auto;
+    background: linear-gradient(#d3a7d6 0%, #b9e617 100%);
+}
+
+.parallax-inner {
+    text-align: center;
+    position: relative;
+    color: #FFFFFF;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+#name {
+    color: darkgoldenrod;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: #d8e310;
+    margin: 1px auto;
+}
+
+#bio {
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
+
+p {
+    max-width: 900px;
+    margin: 25px auto;
+
+}
